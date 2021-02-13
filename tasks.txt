@@ -1,3 +1,4 @@
 It my ferst experiens in automating tasting
 I nead to add new commit, and send to github
 some of the texst fore pull from github
+I must to add two commits in feather
